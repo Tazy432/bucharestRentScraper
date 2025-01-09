@@ -81,18 +81,22 @@ The program in really simple the user is asked to input **4** things , in the fo
 
 ### 1.The number of rents the user intends to scrape with the app
 This should be an positive integer greater than 1
+
 eg: 10
 ### 2.The address of the workplace ,the address of the mistress , favorite club , whatever
 This should be a street name , street number(optional), zipcode(optional) and most important **THE CITY** in which the street is found.
 It is of great importance to specify the city because the app scrapes data from google maps , and if only
 the street is present , that might result in an error because a street named *X* might be found in 
 more than one cities . Let's avoid that ☺
+
 eg: Iuliu maniu 152A bucuresti
 ### 3.The city in which the bot looks for rent announcements
 The user can choose from a dropdown list one out of the 42 romanian counties
+
 eg :Bucuresti
 ### 4.The directory in which the scraped data shall be saved
 The user should press on the **choose directory** button to select a directory in which to save the scraped data , or insert by hand the full path of the directory
+
 eg: C:/Users/Andrei/Desktop
 
 ---
