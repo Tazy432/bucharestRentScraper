@@ -31,6 +31,7 @@ Python serves as the backbone of the project, providing simplicity and readabili
 ## Installation & Setup
 
 Follow these steps to get the project up and running:
+I strongly recommend python 3.12.6 in order to tun this project
 
 ### 1. Clone the repository
 
